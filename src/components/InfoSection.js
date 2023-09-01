@@ -11,7 +11,7 @@ const InfoSection = () => {
 
     const [name, setName] = useState('Kumar Shashank');
     const [about, setAbout] = useState('Add your bio here...');
-    const [phone, setPhone] = useState('+91 8340 767 018');
+    const [phone, setPhone] = useState('+91 9876 543 210');
 
 
     const profileInfo = [

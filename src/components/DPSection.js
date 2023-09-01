@@ -7,7 +7,7 @@ import DefaultDP from '../imges/dp.png'
 
 const DPSection = () => {
 
-    const [changeDPModal, setChangeDPModal] = useState(true);
+    const [changeDPModal, setChangeDPModal] = useState(false);
     const [profilePicture, setProfilePicture] = useState(null);
 
     return (
