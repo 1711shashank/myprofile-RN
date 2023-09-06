@@ -2,15 +2,6 @@
 
 Welcome to the React Native Profile Screen project! This profile screen is inspired by a popular messaging app and allows users to effortlessly update their name, bio, and profile picture. Whether they want to capture a fresh snapshot or pick an image from their gallery, this React Native project has got it covered.
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - **Profile Picture**: Users can update their profile picture by capturing a new one or choosing an image from their gallery.
